@@ -1,0 +1,39 @@
+.body{
+	background-image:url('school.jpg');
+	background-size:cover;
+}
+.header{
+	font-size:50px;
+	color:red;
+	font-weight:bold;
+	font-family:cursive;
+	float:left;
+	margin-left:380px;
+	margin-right:120px;
+}
+
+.list ul li{
+	list-style-type:none;
+	display:inline;
+	margin-left:2px;
+	font-size:20px;
+	font-weight:bold;
+	color:#0C1B65;
+	padding:10px;
+	
+}
+.list ul li a:hover{
+	color:red;
+	font-size:23px;
+}
+.footer{
+	text-align: center;
+	font-size: 18px;
+	color:black;
+	margin-top: 570px;
+
+}
+.footer a:hover{
+	font-size: 30px;
+	color:red;
+}
